@@ -1,0 +1,10 @@
+.Photo-container{
+    border: 6px solid #8FC0F1;
+    outline: 10px solid #FBE45D;
+    border-radius: 25px;
+    height: 515px;
+    max-width: 800 px;
+    aspect-ratio: 1.2;
+    background: repeating-linear-gradient(
+        to bottom, #F3F6F6 ,#F3F6F6 15px, #CAE7EF 15px, #CAE7EF 25px);
+}

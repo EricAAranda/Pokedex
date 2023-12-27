@@ -1,0 +1,20 @@
+.containerCard{
+    display: flex;
+    align-items: center;
+}
+#arrow-right{
+    height: 40px;
+}
+.Card{
+    display: flex;
+    align-items: center;
+    background-color: #FEEBB8;
+    border-radius: 25px 5px 5px 25px;
+    height: 45px;
+    width: 70%;
+    font-size: large;
+}
+.circle-Card{
+    height: 30px;
+    margin-left: 10px;
+}
