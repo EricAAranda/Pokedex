@@ -1,0 +1,37 @@
+#container {
+    height: calc(100vh - 110px);
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    align-items:center;
+    background: repeating-linear-gradient(
+        0deg,
+        #779fe3 110px,
+        #789FE3 115px,
+        #6187D5 115px,
+        #6187D5 170px,
+        #6C8CD2 170px,
+        #6C8CD2 180px,
+        #5679C6 180px,
+        #5679C6 225px,
+        #5A74BD 225px,
+        #5A74BD 240px,
+        #4B68BB 240px,
+        #4B68BB 250px,
+        #5B73BE 250px,
+        #5B73BE 275px,
+        #4460B5 275px,
+        #4460B5 290px,
+        #4B5FAE 290px,
+        #4B5FAE 470px,
+        #779fe3 470px,
+        #789FE3 485px,
+        #4B68BB 485px,
+        #4B68BB 520px,
+        #5B73BE 520px,
+        #5B73BE 540px
+      );
+}
+
+app-pokemon-photo{
+    margin-left: 100px;    
+}
